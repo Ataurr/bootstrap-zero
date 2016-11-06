@@ -1461,7 +1461,6 @@ module.exports =
             avatar: "http://www.designbootstrap.com/wp-content/uploads/2014/12/logo.png",
             license: "MIT",
             licenseUrl: "http://www.designbootstrap.com/licenses/"
-
         },
         {
             name: "Bino",
